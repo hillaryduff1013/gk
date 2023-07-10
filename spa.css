@@ -46,6 +46,8 @@ h1{
     height: 2%; 
     float: right; 
     margin-top: -60px;
+    color: white;
+    border: 0px !important;
 }
 .topnav-right {
     float: right;
